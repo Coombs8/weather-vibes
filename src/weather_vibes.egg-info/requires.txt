@@ -1,0 +1,4 @@
+duckdb<2,>=1.1
+
+[dev]
+pytest>=8

@@ -1,0 +1,2 @@
+[console_scripts]
+weather-vibes = weather_vibes.cli:main

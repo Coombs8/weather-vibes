@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: weather-vibes
+Version: 0.1.0
+Summary: Analytics-ready Michigan GHCN-Daily weather data
+Requires-Python: >=3.11
+Requires-Dist: duckdb<2,>=1.1
+Provides-Extra: dev
+Requires-Dist: pytest>=8; extra == "dev"
